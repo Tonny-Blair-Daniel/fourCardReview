@@ -16,8 +16,8 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [github URL](https://your-solution-url.com)
-- Live Site URL: [liveSite](https://your-live-site-url.com)
+- Solution URL: [github URL](https://github.com/Tonny-Blair-Daniel/fourCardReview.git)
+- Live Site URL: [liveSite](https://tonny-blair-daniel.github.io/fourCardReview/)
 
 ## My process
 
@@ -47,4 +47,4 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ## Author
 
-- Website - [Website](https://www.your-site.com)
+- Website - [Website](https://tonny-blair-daniel.github.io/fourCardReview/)
